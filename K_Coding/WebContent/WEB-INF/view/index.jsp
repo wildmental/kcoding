@@ -75,7 +75,7 @@
                         <a class="page-scroll" href="#team">교육 콘텐츠</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">교사양성</a>
+                        <a class="page-scroll" href="#contact">평가 및 협력문의</a>
                     </li>
                 </ul>
             </div>
@@ -88,7 +88,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">한국형 코딩의 모든 것 </div>
+                <div class="intro-lead-in">국가대표 코딩평가</div>
                 <div class="intro-heading">K코딩에 오신 것을<br>환영합니다!</div>
                 <a href="#services" class="page-scroll btn btn-xl">About us</a>
             </div>
@@ -161,7 +161,7 @@
                         <img src='<c:url value="/img/portfolio/roundicons.png"/>' class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>초중고 창의력 코딩교육</h4>
+                        <h4>초중고 창의력 코딩테스트</h4>
                         <p class="text-muted">미래 융합인재로 발돋움하기 위한<br>컴퓨터적 사고의 기초를 평가합니다.</p>
                     </div>
                 </div>
@@ -309,9 +309,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h6><br>Let's make
-                                    <br>The Future
-                                    <br>with us!</h6>
+                                <img class="img-circle img-responsive" src='<c:url value="/img/about/5.jpg"/>' alt="">
                             </div>
                         </li>
                     </ul>
@@ -332,7 +330,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src='<c:url value="/img/team/1.jpg"/>' class="img-responsive img-circle" alt="">
+                        <img src='<c:url value="/img/partners/1.jpg"/>' class="img-responsive img-circle" alt="">
                         <h4>중국 선전 : 大公榜</h4>
                         <p class="text-muted">Maker활동을 위한 하드웨어 지원<br>및 창업 인큐베이팅</p>
                         <ul class="list-inline social-buttons">
@@ -347,7 +345,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src='<c:url value="/img/team/2.jpg"/>' class="img-responsive img-circle" alt="">
+                        <img src='<c:url value="/img/partners/2.jpg"/>' class="img-responsive img-circle" alt="">
                         <h4>대한민국 : MakeWith</h4>
                         <p class="text-muted">국내 Maker 활동가 커뮤니티,<br>코딩교육 협력 진행</p>
                         <ul class="list-inline social-buttons">
@@ -362,9 +360,9 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src='<c:url value="/img/team/3.jpg"/>' class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
+                        <img src='<c:url value="/img/partners/3.jpg"/>' class="img-responsive img-circle" alt="">
+                        <h4>대한민국 : LuxRobo</h4>
+                        <p class="text-muted">Modi platform, 모듈형 코딩 등<br>교육 콘텐츠 협력</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -378,7 +376,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">K코딩은 4차 산업혁명 시대 대한민국의 기술 중심성의 회복을 위하여<br>국내는 물론 해외, B2B, B2C, B2G를 막론한 신기술 콘텐츠 유입창구를 활짝 열기 위해 노력하고 있습니다.</p>
                 </div>
             </div>
         </div>
@@ -418,7 +416,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">자격평가 툴 이용문의 및 제휴협력 문의</h3>
                 </div>
             </div>
             <div class="row">
@@ -461,7 +459,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2016</span>
+                    <span class="copyright">Copyright &copy; K-Coding Corporation 2017</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -475,9 +473,9 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
+                        <li><a href="#">개인정보 보호정책</a>
                         </li>
-                        <li><a href="#">Terms of Use</a>
+                        <li><a href="#">이용약관</a>
                         </li>
                     </ul>
                 </div>
